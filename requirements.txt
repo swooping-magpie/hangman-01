@@ -1,2 +1,4 @@
 Flask==2.0.2
 gunicorn
+flask-sock==0.4.0
+websocket-client==1.2.3
